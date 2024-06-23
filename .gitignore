@@ -1,2 +1,8 @@
 
 /social_media_application/.vs
+/social_media_application/G4.Application/obj/Debug
+/social_media_application/G4.WebApplication/obj/Debug
+/social_media_application/G4.Application/obj
+/social_media_application/G4.Domain/obj
+/social_media_application/G4.Repository/obj
+/social_media_application/G4.WebApplication/obj
