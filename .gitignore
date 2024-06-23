@@ -6,3 +6,7 @@
 /social_media_application/G4.Domain/obj
 /social_media_application/G4.Repository/obj
 /social_media_application/G4.WebApplication/obj
+/social_media_application/G4.Application/bin
+/social_media_application/G4.Domain/bin
+/social_media_application/G4.Repository/bin
+/social_media_application/G4.WebApplication/bin
